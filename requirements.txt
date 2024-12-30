@@ -1,0 +1,10 @@
+# Core Dependencies
+scapy>=2.4.5                # Packet analysis and sniffing
+python-iptables>=1.0.0      # Firewall management via iptables
+python-json-logger>=2.0.2   # JSON-based logging for structured log output
+
+# Testing and Development
+pytest>=6.2.5               # Unit testing framework
+
+# Optional Integrations
+splunk-sdk>=1.6.18          # Integration with Splunk for advanced analytics
